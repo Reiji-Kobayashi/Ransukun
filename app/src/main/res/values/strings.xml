@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ransukn</string>
+    <string name="name">Name</string>
+    <string name="最大値">最大値</string>
+    <string name="ransuu">乱数生成</string>
+    <string name="clear">クリア</string>
+</resources>
